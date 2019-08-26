@@ -1,8 +1,8 @@
 {
-    "name": "akagibi/myfavicon",
+    "name": "zchlm/myfavicon",
     "description": "CraftCMS plugin generating favicon.",
     "type": "craft-plugin",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "keywords": [
         "craft",
         "cms",
@@ -11,14 +11,17 @@
         "favicon"
     ],
     "support": {
-        "docs": "https://github.com/akagibi/myfavicon/blob/master/README.md",
-        "issues": "https://github.com/akagibi/myfavicon/issues"
+        "docs": "https://github.com/zchlm/myfavicon/blob/master/README.md",
+        "issues": "https://github.com/zchlm/myfavicon/issues"
     },
     "license": "MIT",
     "authors": [
         {
             "name": "Akagibi",
             "homepage": "https://www.akagibi.com"
+        },
+        {
+            "name": "Zchlm"
         }
     ],
     "require": {
@@ -32,7 +35,7 @@
     "extra": {
         "name": "My Favicon",
         "handle": "myfavicon",
-        "changelogUrl": "https://raw.githubusercontent.com/akagibi/myfavicon/master/CHANGELOG.md",
+        "changelogUrl": "https://raw.githubusercontent.com/zchlm/myfavicon/master/CHANGELOG.md",
         "class": "akagibi\\myfavicon\\MyFavicon"
     }
 }

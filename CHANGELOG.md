@@ -1,5 +1,8 @@
 # My Favicon Changelog
 
+## 1.0.3 - 2019-08-26
+- Use relative paths
+
 ## 1.0.2 - 2019-06-19
 ### Added
 - Debug
