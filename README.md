@@ -1,10 +1,10 @@
-# My Favicon plugin for Craft CMS 3.x
+# My Favicon plugin for Craft CMS 4.x
 
 CraftCMS plugin generating favicon.
 
 ## Requirements
 
-This plugin requires Craft CMS 3.x
+This plugin requires Craft CMS 4.x
 
 ## Installation
 
